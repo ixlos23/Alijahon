@@ -1,0 +1,90 @@
+[
+  {
+    "model": "apps.Category",
+    "pk": 1,
+    "fields": {
+      "created_adt": "2024-07-13T15:02:52.799Z",
+      "updated_adt": "2024-07-13T15:02:52.799Z",
+      "slug": "uy-uchun",
+      "name": "uy uchun",
+      "image": "images/Screenshot_from_2024-07-11_18-44-50_5YuCVk2.png"
+    }
+  },
+  {
+    "model": "apps.Category",
+    "pk": 2,
+    "fields": {
+      "created_adt": "2024-07-13T15:03:10.586Z",
+      "updated_adt": "2024-07-13T15:03:10.586Z",
+      "slug": "avtomobil-uchun",
+      "name": "avtomobil uchun",
+      "image": "images/Screenshot_from_2024-07-11_22-13-42_duqilRI.png"
+    }
+  },
+  {
+    "model": "apps.Category",
+    "pk": 3,
+    "fields": {
+      "created_adt": "2024-07-13T15:04:01.571Z",
+      "updated_adt": "2024-07-13T15:04:01.571Z",
+      "slug": "kitoblar",
+      "name": "kitoblar",
+      "image": "images/Screenshot_from_2024-07-11_22-16-17_KyLJKLw.png"
+    }
+  },
+  {
+    "model": "apps.Category",
+    "pk": 4,
+    "fields": {
+      "created_adt": "2024-07-13T15:40:44.947Z",
+      "updated_adt": "2024-07-13T15:40:44.947Z",
+      "slug": "bolalar-uchun",
+      "name": "bolalar uchun",
+      "image": "images/9FAD31AD-312A-44A0-9AC3-247DA89DE70E.png"
+    }
+  },
+  {
+    "model": "apps.Category",
+    "pk": 5,
+    "fields": {
+      "created_adt": "2024-07-13T15:41:14.591Z",
+      "updated_adt": "2024-07-13T15:41:14.591Z",
+      "slug": "fitness",
+      "name": "fitness",
+      "image": "images/6F1333A3-9765-4216-AE0A-A576B81DB510.png"
+    }
+  },
+  {
+    "model": "apps.Category",
+    "pk": 6,
+    "fields": {
+      "created_adt": "2024-07-13T15:41:39.779Z",
+      "updated_adt": "2024-07-13T15:41:39.779Z",
+      "slug": "davolovchi-mazlar",
+      "name": "davolovchi mazlar",
+      "image": "images/1561E941-0F91-4C87-BCAA-49DD49C48E0B.png"
+    }
+  },
+  {
+    "model": "apps.Category",
+    "pk": 7,
+    "fields": {
+      "created_adt": "2024-07-15T10:21:20.833Z",
+      "updated_adt": "2024-07-15T10:21:20.833Z",
+      "slug": "erkaklar-uchun",
+      "name": "Erkaklar uchun",
+      "image": "images/4BB898DC-10EE-4BC2-8FF2-CEE45C4A8452.jpeg"
+    }
+  },
+  {
+    "model": "apps.Category",
+    "pk": 8,
+    "fields": {
+      "created_adt": "2024-07-15T10:21:56.072Z",
+      "updated_adt": "2024-07-15T10:21:56.072Z",
+      "slug": "davolovchi-mahsulotlar",
+      "name": "Davolovchi  mahsulotlar",
+      "image": "images/A2ABC07B-AE08-4D84-B8DA-C21DA27DFCBC.jpeg"
+    }
+  }
+]
